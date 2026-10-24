@@ -1,6 +1,5 @@
 const API_URL = "https://ai-healthcare-3d2f.onrender.com";
 
-
 // ==========================================
 // GET AUTH TOKEN
 // ==========================================
